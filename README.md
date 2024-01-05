@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfunctionBee%2Fnext-login-logic&count_bg=%23353B36&title_bg=%23030303&icon=ghostery.svg&icon_color=%23E7E7E7&title=viewer&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # next-login-logic
 
 Next.js를 활용한 로그인 로직 구현
@@ -17,37 +19,18 @@ Next.js를 활용한 로그인 로직 구현
 
 <br>
 
-## 1. 프로젝트 생성
-
-```bash
-# 프로젝트 생성
-# npx: npm 패키지를 실행시켜주는 도구
-npx create-next-app 프로젝트명
-```
+## 1. 
 
 <br>
 
-## 2. 프로젝트 실행
+## 2. 
+<br>
 
-```bash
-npm run dev
-```
+## 3. 
 
 <br>
 
-## 3. 프로젝트 구조
-
-```bash
-
-```
-
-<br>
-
-## 4. 라이브러리 설치
-
-- [x] UI 컴포넌트 라이브러리: shadcn.ui
-- [x] CSS 프레임워크: tailwindcss
-- [x]
+## 4. 
 
 <br>
 
@@ -70,6 +53,3 @@ npm run dev
 <br>
 
 ## References
-
-- [Next.js 공식문서](https://nextjs.org/docs/getting-started)
-- [UI 컴포넌트 라이브러리: shadcn.ui](https://ui.shadcn.com/docs)
