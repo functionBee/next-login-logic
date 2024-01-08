@@ -37,7 +37,7 @@ export const CardWrapper = ({
       </CardHeader>
       <div className="p-6 pt-0 grid gap-4">
         {showSocialLogin && <SocialLogin />}
-        <CardContent>{children}</CardContent>
+        <CardContent className="grid gap-2 p-0">{children}</CardContent>
       </div>
       <CardFooter className="text-sm text-muted-foreground">
         Not a Member yet?

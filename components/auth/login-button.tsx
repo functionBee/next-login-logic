@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 
+// typeAlias가 아니라 interface를 사용한 이유는? ReactNode를 사용하기 위해서
 interface LoginButtonProps {
   children: React.ReactNode;
   mode?: "modal" | "redirect";
