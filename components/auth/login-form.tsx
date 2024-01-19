@@ -80,8 +80,8 @@ export const LoginForm = ({}) => {
                   </FormItem>
                 )}
               />
-              <FormError message="Invalid email or password. Please try again." />
-              <FormSuccess message="You have successfully logged in." />
+              <FormError message="이메일 또는 비밀번호가 잘못되었습니다." />
+              <FormSuccess message="로그인에 성공했습니다." />
               <Button
                 type="submit"
                 className="mt-3 flex items-center justify-center w-full whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2"
